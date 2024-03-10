@@ -1,0 +1,36 @@
+h1{
+    color: rgb(8, 145, 54);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: initial;
+    font-size: 50px;
+    font-weight: 100;
+}
+.odd{
+    border: 6px solid;
+    font-size: 30px;
+    padding: 40px;
+    color: rgb(10, 12, 14);
+}
+.even{
+    border: 6px solid;
+    font-size: 30px;
+    padding: 40px;
+    color: rgb(3, 4, 5);
+}
+.non{
+    border: 6px solid;
+    font-size: 30px;
+    padding: 40px;
+    color: rgb(5, 5, 5);
+}
+body{
+    background-image: url(https://globalcenters.columbia.edu/sites/default/files/styles/cu_crop/public/content/Mumbai/Events/4.jpeg?itok=xVTFgAiB);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.p1{
+    color: rgb(17, 17, 17);
+    font-size: 40px;
+}
