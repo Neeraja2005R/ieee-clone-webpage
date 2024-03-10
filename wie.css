@@ -5,7 +5,7 @@
     margin-right: 20px;
 }
 body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeirQkWAhb_Iqz2kX16VyyOBpHrUgxuVb86LyrOctpwaZwBaBmQ6OOBCl4s1rqxTA3cRI&usqp=CAU);
+    background:linear-gradient(to right,rgb(156, 70, 70), rgb(151, 26, 151),white);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
